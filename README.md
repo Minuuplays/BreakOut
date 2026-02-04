@@ -106,7 +106,6 @@ Breakout/
 - [ ] Multiple ball types
 - [ ] Sound effects and music
 - [ ] Level editor
-- [ ] High score system
 
 ## Contributing
 
@@ -120,10 +119,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - SDL2 library by Sam Lantinga
 - Inspired by the classic Atari Breakout game
-- [Any other credits or resources used]
 
 ## Contact
 
-Your Name - [your-email@example.com]
+Your Name - [minuu0072@gmail.com]
 
-Project Link: [https://github.com/yourusername/Breakout](https://github.com/yourusername/Breakout)
+Project Link: [https://github.com/Minuuplays/BreakOut]
