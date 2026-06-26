@@ -102,8 +102,6 @@ Breakout/
 
 ## Future Improvements
 
-- [ ] Add power-ups
-- [ ] Multiple ball types
 - [ ] Sound effects and music
 - [ ] Level editor
 
