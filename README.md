@@ -122,6 +122,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-Your Name - [minuu0072@gmail.com]
+TahsinRafi - [tahsinrafi007@gmail.com]
 
 Project Link: [https://github.com/Minuuplays/BreakOut]
